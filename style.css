@@ -1,0 +1,26 @@
+body{
+    /* display: block;
+   
+      */
+    width: 100%;
+    height: 3000px;
+    background: linear-gradient(180deg, #F98484 0%, #FED5D5 0.01%, #F98484 100%);
+}
+/* .navbar{
+    position:  relative;
+    width: 100%;
+    height: 59px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+} */
+.elysia{
+    width: 50px;
+}
+/* .btn{
+    position:absolute;
+    width: 169px;
+    height: 46px;
+    left: 85%;
+    top: 6px;
+} */
