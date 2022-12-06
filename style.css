@@ -24,3 +24,18 @@ body{
     left: 85%;
     top: 6px;
 } */
+footer{
+    position: fixed;
+        bottom: 0px;
+        left: 0px;
+        background-color: white;
+        padding: 10px;
+        text-align: center;
+        width: 100%;
+        color: black;
+}
+.carousel-caption{
+    left:5%;
+    right: 80%;
+    text-align: left;
+}
